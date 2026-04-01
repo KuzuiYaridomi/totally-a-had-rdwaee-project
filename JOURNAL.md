@@ -24,7 +24,7 @@ Designed the 5V input stage with protection circuits and multiple
 rails for different voltage domains. Added filtering and decoupling
 capacitors throughout to ensure stable power delivery.
 
-![power schematic](images/power-schematic.png)
+![power schematic](https://i.ytimg.com/vi/bCc2fZ-H_1s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCsnfjV6OAZ1TjJfUtU5HvA6MJGMw)
 
 **Total time spent: 4 hours**
 
@@ -55,7 +55,7 @@ distribution planes and defined via placement strategy. Began placing
 critical components near their respective power sources to minimize
 inductance and ensure proper current distribution.
 
-![layer stackup](images/stackup-diagram.png)
+![layer stackup](https://i.ytimg.com/vi/bCc2fZ-H_1s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCsnfjV6OAZ1TjJfUtU5HvA6MJGMw)
 
 **Total time spent: 4 hours**
 
@@ -88,7 +88,7 @@ component values. Performed final design rule checks and fixed any
 remaining violations. Generated Gerber files and submitted to PCB
 manufacturer with 2-week delivery estimate.
 
-![final pcb layout](images/pcb-layout-final.png)
+![final pcb layout](https://i.ytimg.com/vi/bCc2fZ-H_1s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCsnfjV6OAZ1TjJfUtU5HvA6MJGMw)
 
 **Total time spent: 4 hours**
 
